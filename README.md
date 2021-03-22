@@ -43,5 +43,5 @@ Submision notes:
 Please make two,and only two folders: task_a and task_b.
 Each of them will include Make file with default build, and clear option.
 All the executable should have the same name as a main c file.
-Compress the work to ZIP (not RAR) file, and upload to Moodle.
+Compress the work to ZIP (not RAR) file, and upload to Moodle
 
